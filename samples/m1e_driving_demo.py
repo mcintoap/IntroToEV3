@@ -20,7 +20,7 @@ Authors: Dave Fisher and PUT_YOUR_NAME_HERE.
 #    - Marking the file as an executable and running it via Brickman
 # ------------------------------------------------------------------
 
-import ev3dev.ev3 as ev3
+import ev3dev as ev3
 import time
 
 
